@@ -1,0 +1,20 @@
+Gramática Original:
+S -> aAa | bBv
+A -> a | aA
+
+Após remoção de símbolos inalcançáveis:
+S -> aAa | bBv
+A -> a | aA
+
+Após remoção de símbolos inúteis:
+S -> aAa
+A -> a | aA
+
+Após remoção de produções vazias (ε):
+S -> aAa
+A -> a | aA
+
+Após remoção de produções unitárias:
+S -> aAa
+A -> a | aA
+
