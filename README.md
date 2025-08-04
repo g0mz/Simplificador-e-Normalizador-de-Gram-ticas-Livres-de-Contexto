@@ -65,4 +65,4 @@ A -> a | aA
 
 ## Conclusão
 
-Este projeto tem como objetivo fornecer uma ferramenta para simplificar e normalizar gramáticas livres de contexto, facilitando a análise e manipulação de gramáticas em Teoria da Computação.s
+Este projeto tem como objetivo fornecer uma ferramenta para simplificar e normalizar gramáticas livres de contexto, facilitando a análise e manipulação de gramáticas em Teoria da Computação.
